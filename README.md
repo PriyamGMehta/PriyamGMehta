@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 💡 **Name**: Priyam Mehta  
-- 🎓 **Education**: MCA @ MIT-WPU | BCA (8.36 CGPA)  
+- 🎓 **Education**: BCA @ VNSGU (8.17 CGPA)  
 - 📍 **Location**: Surat, Gujarat, India  
 - 📫 **Email**: [priyamgmehta7667@gmail.com](mailto:priyamgmehta7667@gmail.com)  
 - 🌐 **LinkedIn**: [Priyam Mehta](https://www.linkedin.com/in/priyamgmehta)  
