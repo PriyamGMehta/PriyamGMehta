@@ -1,6 +1,7 @@
-<h1 align="center">🚀 Priyam Mehta — Fueling Code. Igniting Innovation.</h1>
+<h1 align="center">🚀 Priyam Mehta — Fueling Code. Igniting Innovation.</h1>More actions
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00F7FF&size=22&center=true&vCenter=true&lines=Python;Django | MySQL;ASP.Net;VB.Net" />
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00F7FF&size=22&center=true&vCenter=true&lines=Python;Django;ASP.Net;VB.Net" />
 </p>
 
@@ -21,7 +22,9 @@
 
 ### ⚙️ Tech Stack
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=php,django,mysql,asp,dotnet,oracle,java,html,css,js,mongodb" /> <img src="https://img.shields.io/badge/VB.Net-512BD4?style=flat-square&logo=.net&logoColor=white" alt="VB.Net" /> </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,flutter,dart,python,php,html,css,js,react,mysql,firebase,mongodb,postgresql" />
+</div>
 
 ---
 
