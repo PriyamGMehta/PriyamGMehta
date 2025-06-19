@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Priyam Mehta — Fueling Code. Igniting Innovation.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00F7FF&size=22&center=true&vCenter=true&lines=Python;Django;ASP.Net;VB.Net" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00F7FF&size=22&center=true&vCenter=true&lines=Python;Django + MySQL;ASP.Net;VB.Net" />
 </p>
 
 ---
