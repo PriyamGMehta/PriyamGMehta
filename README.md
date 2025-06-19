@@ -21,9 +21,7 @@
 
 ### ⚙️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,django,mysql,asp.net,oracle,java,html,css,js,mongodb,vb.net" />
-</div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=php,django,mysql,asp,dotnet,oracle,java,html,css,js,mongodb" /> <img src="https://img.shields.io/badge/VB.Net-512BD4?style=flat-square&logo=.net&logoColor=white" alt="VB.Net" /> </div>
 
 ---
 
